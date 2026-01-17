@@ -33,4 +33,4 @@ Packages/
 ProjectSettings/
 
 ## 🎥 Gameplay Demo
-Gameplay video will be added here.
+https://youtu.be/KKoawB-_kbY
